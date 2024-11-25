@@ -16,14 +16,14 @@
   # Sets environment variables in the workspace
   env = {
     PATH = ["/home/user/bin"];
-    YC_TOKEN = "y0_AgAAAAAABUdNAATuwQAAAAEKsdsEAABDqCcSWiRJaaPlLi577hrQ-4XpGQ";
+    YC_TOKEN = "";
     TF_VAR_YC_FOLDER_NAME = "aishitalk";
     TF_VAR_YC_FOLDER_DESCRIPTION = "Test YDB serverless telegram bot example";
-    TF_VAR_TELEGRAM_BOT_API_KEY = "6673445419:AAHv8BvmRkFP3pNuYMEbO1FUK3rrct9QCUQ";
-    TF_VAR_TELEGRAM_API_ID = "22484244";
-    TF_VAR_TELEGRAM_API_HASH = "f3d932c9791e675c464d1ad2e3f648b9";
-    TF_VAR_TELEGRAM_CLIENT_SESSION = "1ApWapzMBu1_27v-xoAySZWXW7VLsexAcRUy_pSDrwn7adB36mKOWvvApeG1OYQu8YnjpgpI2J89616WEmCRoi5RuEMWOoSvw6FkIOl_zJ0UyfmMD4WOzr8iBkWxcf7KonNmNWoTfhLCdM_BS9TiDhdp_CeolZfJXkjY_eR5p1DJHVzCCIph0HBpZRw504ui6DBfi3YGG_qlhbQ_St7TGdDyZMrIEv9q-lufuZPC1s_7jeUOPI7uMGAlKIUhes539JIQzcssykdGyxveiR1aFy5q0Fw2sizJM6PLWs1UdtseIwYjg2QLkbRsVvFLowe7II7oZ7mkYC2K7phZkDR9EXqRdaVSN2mY=";
-    TF_VAR_YC_CLOUD_ID = "b1g5u7k7rq8ba0os2gbn";
+    TF_VAR_TELEGRAM_BOT_API_KEY = "";
+    TF_VAR_TELEGRAM_API_ID = "";
+    TF_VAR_TELEGRAM_API_HASH = "";
+    TF_VAR_TELEGRAM_CLIENT_SESSION = "";
+    TF_VAR_YC_CLOUD_ID = "";
   };
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
