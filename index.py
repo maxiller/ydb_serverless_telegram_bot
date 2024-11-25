@@ -8,7 +8,7 @@ from logs import logger
 
 YDB_ENDPOINT = os.getenv("YDB_ENDPOINT")
 YDB_DATABASE = os.getenv("YDB_DATABASE")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("TELEGRAM_BOT_API_KEY")
 
 
 def handler(event, _):

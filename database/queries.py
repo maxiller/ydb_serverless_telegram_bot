@@ -1,5 +1,5 @@
-USERS_INFO_TABLE_PATH = "user_personal_info"
-STATES_TABLE_PATH = "states"
+USERS_INFO_TABLE_PATH = "ydb-table-user-personal-info"
+STATES_TABLE_PATH = "ydb-table-states"
 
 
 get_user_state = f"""
